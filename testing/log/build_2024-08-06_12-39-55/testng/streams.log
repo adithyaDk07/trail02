@@ -1,0 +1,22 @@
+[0.421s] Invoking command in '/home/adithyadk/testing/src/testng': PYTHONPATH=/home/adithyadk/testing/build/testng/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/adithyadk/testing/install/testng/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/testng build --build-base /home/adithyadk/testing/build/testng/build install --record /home/adithyadk/testing/build/testng/install.log --single-version-externally-managed install_data
+[0.631s] running egg_info
+[0.631s] writing ../../build/testng/testng.egg-info/PKG-INFO
+[0.631s] writing dependency_links to ../../build/testng/testng.egg-info/dependency_links.txt
+[0.631s] writing entry points to ../../build/testng/testng.egg-info/entry_points.txt
+[0.632s] writing requirements to ../../build/testng/testng.egg-info/requires.txt
+[0.632s] writing top-level names to ../../build/testng/testng.egg-info/top_level.txt
+[0.632s] reading manifest file '../../build/testng/testng.egg-info/SOURCES.txt'
+[0.633s] writing manifest file '../../build/testng/testng.egg-info/SOURCES.txt'
+[0.633s] running build
+[0.633s] running build_py
+[0.633s] running install
+[0.633s] running install_lib
+[0.634s] running install_data
+[0.634s] running install_egg_info
+[0.635s] removing '/home/adithyadk/testing/install/testng/lib/python3.10/site-packages/testng-0.0.0-py3.10.egg-info' (and everything under it)
+[0.635s] Copying ../../build/testng/testng.egg-info to /home/adithyadk/testing/install/testng/lib/python3.10/site-packages/testng-0.0.0-py3.10.egg-info
+[0.635s] running install_scripts
+[0.647s] Installing camera_publisher script to /home/adithyadk/testing/install/testng/lib/testng
+[0.647s] Installing image_subscriber script to /home/adithyadk/testing/install/testng/lib/testng
+[0.648s] writing list of installed files to '/home/adithyadk/testing/build/testng/install.log'
+[0.661s] Invoked command in '/home/adithyadk/testing/src/testng' returned '0': PYTHONPATH=/home/adithyadk/testing/build/testng/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/adithyadk/testing/install/testng/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/testng build --build-base /home/adithyadk/testing/build/testng/build install --record /home/adithyadk/testing/build/testng/install.log --single-version-externally-managed install_data

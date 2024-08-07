@@ -1,0 +1,28 @@
+[0.517s] Invoking command in '/home/adithyadk/testing/src/testng': PYTHONPATH=/home/adithyadk/testing/build/testng/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/adithyadk/testing/install/testng/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/testng build --build-base /home/adithyadk/testing/build/testng/build install --record /home/adithyadk/testing/build/testng/install.log --single-version-externally-managed install_data
+[0.725s] running egg_info
+[0.725s] writing ../../build/testng/testng.egg-info/PKG-INFO
+[0.726s] writing dependency_links to ../../build/testng/testng.egg-info/dependency_links.txt
+[0.726s] writing entry points to ../../build/testng/testng.egg-info/entry_points.txt
+[0.726s] writing requirements to ../../build/testng/testng.egg-info/requires.txt
+[0.726s] writing top-level names to ../../build/testng/testng.egg-info/top_level.txt
+[0.727s] reading manifest file '../../build/testng/testng.egg-info/SOURCES.txt'
+[0.727s] writing manifest file '../../build/testng/testng.egg-info/SOURCES.txt'
+[0.727s] running build
+[0.727s] running build_py
+[0.727s] copying testng/cameraPublisher.py -> /home/adithyadk/testing/build/testng/build/lib/testng
+[0.728s] copying testng/cameraSubscriber.py -> /home/adithyadk/testing/build/testng/build/lib/testng
+[0.728s] running install
+[0.728s] running install_lib
+[0.729s] copying /home/adithyadk/testing/build/testng/build/lib/testng/cameraPublisher.py -> /home/adithyadk/testing/install/testng/lib/python3.10/site-packages/testng
+[0.729s] copying /home/adithyadk/testing/build/testng/build/lib/testng/cameraSubscriber.py -> /home/adithyadk/testing/install/testng/lib/python3.10/site-packages/testng
+[0.729s] byte-compiling /home/adithyadk/testing/install/testng/lib/python3.10/site-packages/testng/cameraPublisher.py to cameraPublisher.cpython-310.pyc
+[0.730s] byte-compiling /home/adithyadk/testing/install/testng/lib/python3.10/site-packages/testng/cameraSubscriber.py to cameraSubscriber.cpython-310.pyc
+[0.731s] running install_data
+[0.731s] running install_egg_info
+[0.733s] removing '/home/adithyadk/testing/install/testng/lib/python3.10/site-packages/testng-0.0.0-py3.10.egg-info' (and everything under it)
+[0.733s] Copying ../../build/testng/testng.egg-info to /home/adithyadk/testing/install/testng/lib/python3.10/site-packages/testng-0.0.0-py3.10.egg-info
+[0.733s] running install_scripts
+[0.746s] Installing camera_publisher script to /home/adithyadk/testing/install/testng/lib/testng
+[0.746s] Installing image_subscriber script to /home/adithyadk/testing/install/testng/lib/testng
+[0.746s] writing list of installed files to '/home/adithyadk/testing/build/testng/install.log'
+[0.760s] Invoked command in '/home/adithyadk/testing/src/testng' returned '0': PYTHONPATH=/home/adithyadk/testing/build/testng/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/adithyadk/testing/install/testng/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/testng build --build-base /home/adithyadk/testing/build/testng/build install --record /home/adithyadk/testing/build/testng/install.log --single-version-externally-managed install_data

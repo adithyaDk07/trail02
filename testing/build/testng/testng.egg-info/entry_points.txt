@@ -1,0 +1,4 @@
+[console_scripts]
+camera_publisher = testng.cameraPublisher:main
+image_subscriber = testng.cameraSubscriber:main
+
